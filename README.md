@@ -62,15 +62,16 @@ The Networkwalks Password Cracker was used to perform password recovery attempts
 - Wordlist-based password testing.
 - Basic understanding of password security.
 - Practical use of cybersecurity tools.
-#Practical Evidence
-![John Version](John-The-Ripper/screenshots/john-version.png)
 
-![John Cracking](John-The-Ripper/screenshots/john-cracking.png)
+PRACTICAL EVIDENCE
 
+
+![JTR Screenshot 1](John-The-Ripper/screenshots/pdf1.png)
+![JTR Screenshot 2](John-The-Ripper/screenshots/pdf2.png)
 ![Hash Calculator](Networkwalks-Online-Tools/screenshots/hash-calculator.png)
 ![Hash Calculator](Networkwalks-Online-Tools/screenshots/hash-calc.png)
 
-![Networkwalks Password Cracker](Networkwalks-Online-Tools/screenshots/networkwalks-cracker.png)
+![JTR Screenshot 3](John-The-Ripper/screenshots/pdf3.png)
 ## Lessons Learned
 
 The exercise demonstrated the importance of password strength and secure password storage.
