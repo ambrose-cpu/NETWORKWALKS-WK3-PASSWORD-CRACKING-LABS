@@ -68,7 +68,8 @@ PRACTICAL EVIDENCE
 
 ![JTR Screenshot 1](John-The-Ripper/screenshots/pdf1.png)
 ![JTR Screenshot 2](John-The-Ripper/screenshots/pdf2.png)
-![Hash Calculator](Networkwalks-Online-Tools/screenshots/hash-calculator.png)
+
+![Networkwalks Password Cracker](Networkwalks-Online-Tools/screenshots/networkwalks-cracker.png)
 ![Hash Calculator](Networkwalks-Online-Tools/screenshots/hash-calc.png)
 
 ![JTR Screenshot 3](John-The-Ripper/screenshots/pdf3.png)
